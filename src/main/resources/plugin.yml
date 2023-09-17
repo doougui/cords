@@ -1,0 +1,12 @@
+name: cords
+version: '${project.version}'
+main: me.doougui.cords.Cords
+api-version: '1.20'
+commands:
+  cords:
+    description: Logs your current coordinates
+    usage: /<command>
+    aliases:
+      - c
+      - coords
+      - where
