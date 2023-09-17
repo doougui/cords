@@ -22,7 +22,7 @@ public class CordsCommand implements CommandExecutor {
         int y = (int) location.getY();
         int z = (int) location.getZ();
 
-        String msg = String.format("%s[%s] %s X: %d, Y: %d, Z: %d", ChatColor.DARK_AQUA, player.getDisplayName(), ChatColor.AQUA, x, y, z);
+        String msg = String.format("%s[%s] %sX: %d, Y: %d, Z: %d", ChatColor.DARK_AQUA, player.getDisplayName(), ChatColor.AQUA, x, y, z);
 
         plugin.getServer().broadcastMessage(msg);
 
