@@ -8,7 +8,7 @@
   </a>
 </p>
 
-> An easier way to log your Minecraft coordinates to your friends
+> An easier way to share your Minecraft coordinates to your friends
 
 ## Usage
 
