@@ -1,8 +1,5 @@
 <h1 align="center">Welcome to cords 👋</h1>
 <p>
-  <a href="https://www.npmjs.com/package/cords" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/cords.svg">
-  </a>
   <a href="https://twitter.com/oDougui" target="_blank">
     <img alt="Twitter: oDougui" src="https://img.shields.io/twitter/follow/oDougui.svg?style=social" />
   </a>
