@@ -9,7 +9,7 @@ import java.util.Objects;
 public final class Cords extends JavaPlugin {
     @Override
     public void onEnable() {
-        System.out.println("[Cords] Plugin is up");
+        System.out.println("[cords] Plugin is up");
 
         PluginCommand command = getCommand("cords");
 
@@ -20,6 +20,6 @@ public final class Cords extends JavaPlugin {
 
     @Override
     public void onDisable() {
-        System.out.println("[Cords] Plugin shut down");
+        System.out.println("[cords] Plugin shut down");
     }
 }
